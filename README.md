@@ -1,4 +1,4 @@
-# MaxMZR Torneios — Copa Halterada 2026
+# Torneios — Copa Furiosa 2026
 
 Aplicativo **mobile-first**, em português, de acompanhamento e gestão visual de torneios esportivos. Inspirado no fluxo da referência visual enviada, mas com identidade **preto (#080808), vermelho (#fe0000) e amarelo (#ffcc00)**.
 
